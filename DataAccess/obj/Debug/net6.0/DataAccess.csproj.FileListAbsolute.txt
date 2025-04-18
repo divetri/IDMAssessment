@@ -1,0 +1,15 @@
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Ngoding\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Ngoding\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Ngoding\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Ngoding\DataAccess\bin\Debug\net6.0\DomainObject.dll
+D:\Ngoding\DataAccess\bin\Debug\net6.0\DomainObject.pdb
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Ngoding\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Ngoding\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Ngoding\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

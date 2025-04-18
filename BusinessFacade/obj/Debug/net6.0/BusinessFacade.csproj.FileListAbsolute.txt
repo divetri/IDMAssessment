@@ -1,0 +1,17 @@
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\BusinessFacade.deps.json
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\BusinessFacade.dll
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\BusinessFacade.pdb
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.csproj.AssemblyReference.cache
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.AssemblyInfoInputs.cache
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.AssemblyInfo.cs
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.csproj.CoreCompileInputs.cache
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.dll
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\refint\BusinessFacade.dll
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.pdb
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\ref\BusinessFacade.dll
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\DomainObject.dll
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\DomainObject.pdb
+D:\Ngoding\BusinessFacade\obj\Debug\net6.0\BusinessFacade.csproj.CopyComplete
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\DataAccess.dll
+D:\Ngoding\BusinessFacade\bin\Debug\net6.0\DataAccess.pdb

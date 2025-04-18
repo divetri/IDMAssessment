@@ -1,0 +1,12 @@
+D:\Ngoding\DomainObject\bin\Debug\net6.0\DomainObject.deps.json
+D:\Ngoding\DomainObject\bin\Debug\net6.0\DomainObject.dll
+D:\Ngoding\DomainObject\bin\Debug\net6.0\DomainObject.pdb
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.csproj.AssemblyReference.cache
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.AssemblyInfoInputs.cache
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.AssemblyInfo.cs
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.csproj.CoreCompileInputs.cache
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.dll
+D:\Ngoding\DomainObject\obj\Debug\net6.0\refint\DomainObject.dll
+D:\Ngoding\DomainObject\obj\Debug\net6.0\DomainObject.pdb
+D:\Ngoding\DomainObject\obj\Debug\net6.0\ref\DomainObject.dll
